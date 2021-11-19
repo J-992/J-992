@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @J-992
-- 📫 How to reach me ... @j.afferr on instagram or twitter
+- How to reach me ... @j.afferr on instagram or twitter
  
 <!---
 J-992/J-992 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
