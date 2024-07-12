@@ -1,4 +1,8 @@
-## Hi, i'm a Mechanical Engineering student @ the University of Waterloo! This profile showcases a bunch of projects (a lot of which are currently private until completion).
+## Hi, I'm jaffer
+
+
+i'm a Mechanical Engineering student @ the University of Waterloo! 
+This profile showcases a bunch of projects (a lot of which are currently private until completion).
 
 <!--
 **J-992/J-992** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
