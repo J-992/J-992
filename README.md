@@ -1,4 +1,4 @@
-## Hi, I'm jaffer
+## Hi, I'm jaffer!
 
 
 i'm a Mechanical Engineering student @ the University of Waterloo! 
